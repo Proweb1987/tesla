@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    background: darkslategray;
+    text-align: center;
+    margin: 20px;
+}
+p{
+    text-align: center;
+    background: coral;
+    margin: 20px 200px;
+    border-radius: 20px;
+    border: solid crimson;
+}
+ul{
+    text-align: center;
+    color: crimson;
+}
+div{
+    text-align: center;
+    margin: 20px;
+}
+    
+
+
+    
